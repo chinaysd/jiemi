@@ -1,0 +1,10 @@
+{
+    "ci-tool.flag": "chipintelli-project",
+    "ci-tool.activated_project": "cwsl_sample",
+    "ci-tool.make_thread_number": "10",
+    "ci-tool.download-serial-port": "COM44",
+    "files.associations": {
+        "sdk_default_config.h": "c"
+    },
+    // "ci-tool.make_thread_number": "1",
+}
